@@ -1,3 +1,2 @@
-Please do not flame me, I have been coding for 3 horus :)
-When replying to the print for your age, only give a num or else it stops working.
-<^,^>
+Run the program as below.
+<img width="1419" height="1425" alt="image" src="https://github.com/user-attachments/assets/a5b616f1-dcb4-4db5-816c-2193c7082004" />
